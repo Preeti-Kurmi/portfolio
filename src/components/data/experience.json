@@ -1,0 +1,14 @@
+
+  {
+    "id": 1,
+    "role": "Data Engineer",
+    "organisation": "Rws Moravia Limited",
+    "startDate": "March, 2022",
+    "endDate": "March,2023",
+    "location": "Indore",
+    "experiences": [
+      " Managed data migration and page publishing tasks",
+      "Proficient in SDLC and Bug Life Cycle,Created web pages and conducted Localization and Globalization Testing",
+"Utilized Bug Tracking Tools,Prepared Daily Status Reports (DSR) and weekly status Reports(WSR)"
+    ]
+  }

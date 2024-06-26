@@ -1,0 +1,23 @@
+[
+  {
+  "key": 1,
+  "title": "Expense Tracker App",
+  "imageSrc": "skills/expense.jpg",
+  "description": "The application solves the problem of users keeping track of daily expenses. Provides robust product features such as payments, premium membership, password retrieval, credential security, and file downloading with an impressive intuitive UI. Implemented security features including one-way hashing using bcrypt and two-way hashing using JWT, third-party mail (Brevo) and payments (Razorpay) integration.",
+  "source": "https://github.com/Preeti-Kurmi/Expense_Website"
+  },
+  {
+  "key": 2,
+  "title": "Group Chat App",
+  "imageSrc": "skills/chat.png",
+  "description": "This project enables the user to chat in a group with features like password encryption for security, real-time messaging in live chat, relational database use-cases, administrative controls, and an appealing, enjoyable, and clean user interface. The application code has been written considering all possible errors and edge cases, aiming to provide a hassle-free messaging experience for users. Async/await with promises have been used extensively to accomplish this. To solve the real-time chatting problem statement, socket.io has been used extensively to communicate with the HTTP server in real time.",
+  "source": "https://github.com/Preeti-Kurmi/Real_time_group_chat_appp"
+  },
+  {
+  "key": 3,
+  "title": "Food Order Website",
+  "imageSrc": "skills/food.jpg",
+  "description": "This is a project made with reactjs and nodejs.In this project customer can add food item also see food list and add varient name of food.customer can add food categpry as well placed order.",
+  "source": "https://github.com/Preeti-Kurmi/restro"
+  }
+  ]
